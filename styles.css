@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&display=swap");
+body {
+  font-family: "Concert One", cursive !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #232946 !important;
+}
+
+.card {
+  padding: 2rem;
+  margin: 2rem;
+  max-width: 80%;
+}
+
+h1 {
+  color: hotpink;
+  padding: 2rem;
+}
+
+h3 {
+  color: #8bd3dd;
+  padding: 1rem;
+}
+
+footer {
+  color: #b8c1ec;
+  padding: 3rem;
+}
+
+footer a {
+  text-decoration: none;
+  color: hotpink;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: teal;
+}
